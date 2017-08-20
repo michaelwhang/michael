@@ -5,6 +5,7 @@
 		<java.version>1.7</java.version>
 	</properties>
 	<parent>
+	<!--加个竹溪-->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.6.RELEASE</version>
